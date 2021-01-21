@@ -1,0 +1,1 @@
+This is CLI based Game of Thrones Quiz app. It is a simple question based app to check how well do you know about the popular web series Game of Thrones !
